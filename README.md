@@ -1,2 +1,3 @@
-# BotOrNot_Twitter
-Attempting to classify if Twitter user is real or not
+# Bot Or Not
+### Classifying if a Twitter user is real or not
+
